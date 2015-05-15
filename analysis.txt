@@ -1,0 +1,6 @@
+Below 1000 the lines seem to be about the same. From what I can see in the graph when its about less than 500 the
+blue line beats the rest of the other n^2 nlg(n) sorts
+The blue line has jitter after the 8000 mark, it might of had jitter because it did several best cases and several worst
+cases one after another which plays a big role when sorting that amount numbers. I also noticed that the blue line
+after 9000 jumps down more than usual and then it begins to jitter. Also the orange line barely even moves I find
+this very intersting. Its really nice to see asymptotic performance visually. It makes asymptotic performance clearer.
